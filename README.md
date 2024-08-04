@@ -23,7 +23,7 @@ Your HTML resume should be deployed online as an [Azure Storage static website u
 The Azure Storage website URL should use HTTPS for security. You will need to use Azure CDN to help with this. This ['Tut' should help you crack the code](https://dev.to/balop3e/hosting-a-static-website-on-azure-storage-with-azure-cdn-3788)
 
 ### 3. DNS
-Point a custom DNS domain name to the Azure CDN endpoint, so your resume can be accessed at something like `my-c00l-resume-website.com`. You can use Azure DNS or any other DNS provider for this. A domain name usually costs about ten bucks to [register, but namecheap the name says, it's cheap](namecheap.com)
+Point a custom DNS domain name to the Azure CDN endpoint, so your resume can be accessed at something like `my-c00l-resume-website.com`. You can use Azure DNS or any other DNS provider for this. A domain name usually costs about ten bucks to [register, but namecheap's name already says, it's cheap, then that's my $0.02](https://www.namecheap.com/).
 
 ### 4. Javascript
 Your resume webpage should include a visitor counter that displays how many people have accessed the site. You will need to write a bit of Javascript to make this happen. [Here](https://example.com) is a helpful [tutorial to get you started in the right direction](freecodecamp.org).
