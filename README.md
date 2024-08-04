@@ -4,9 +4,10 @@
 #### Check out this tweaked version of the CRC to help you enhance and level up your career from 0️⃣ to ☁️ computing with these awesome projects, divided into chunks for better comprehension and applicability. This approach will help you develop your skills and become a well-rounded tech professional. For effective learning, please divide the project over 2 months and set weekly goals to work on it accordingly. My recommendation is to spend 2 weeks on each of 4 sections (e.g., sections 1-4 in the first 2 weeks, sections 5-8 in the second 2 weeks). This will give you plenty of time to digest the content and learn. Taking written notes is also crucial to your development.
 
 
-### 1. Certification
+### 1. Certification 
 Your resume needs to have the AZ-900 certification on it. This is an introductory certification that orients you on the Azure cloud – if you have a more advanced Azure cert, that’s fine but not expected. You can sit this exam online for $100 USD.
 There's plenty of resources, but the Microsoft's self-paced [training](https://learn.microsoft.com/en-us/training/courses/az-900t00) and the glorious content of the [Azure guru John Savill](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3) you should be fine.
+
 
 ### 2. HTML
 Your resume needs to be written in HTML. Not a Word doc, not a PDF. [Here](https://www.youtube.com/watch?v=mU6anWqZJcc) is an example of what I mean.
@@ -54,4 +55,4 @@ Create a second GitHub repository for your website code. Create GitHub Actions s
 ### 13. Blog Post
 Finally, in the text of your resume, you should link a short blog post describing some things you learned while working on this project. [Dev.to](https://dev.to) or [Hashnode](https://hashnode.com) are great places to publish if you don’t have your own blog.
 
-And that’s the gist of it! For strategies, tools, and further challenges to help you get hired in cloud, check out the Azure edition of the Cloud Resume Challenge book.
+And that’s the gist of it! For strategies, tools, and further challenges to help you get hired in cloud, check out the [Azure edition of the Cloud Resume Challenge book](https://cloudresumechallenge.dev/docs/the-challenge/azure/).
