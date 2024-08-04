@@ -6,7 +6,7 @@
 
 ### 1. Certification 
 Your resume needs to have the AZ-900 certification on it. This is an introductory certification that orients you on the Azure cloud – if you have a more advanced Azure cert, that’s fine but not expected. You can sit this exam online for $100 USD.
-There's plenty of resources, but the Microsoft's self-paced [training](https://learn.microsoft.com/en-us/training/courses/az-900t00) and the glorious content of the [Azure guru John Savill](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3) you should be fine.
+There's plenty of resources, but the [Microsoft's self-paced training](https://learn.microsoft.com/en-us/training/courses/az-900t00) and the glorious content of the [Azure guru John Savill](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3) you should be fine.
 
 
 ### 2. HTML
